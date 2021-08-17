@@ -7,7 +7,7 @@
 # Open cmd and type [pip install colorama]                                                #
 # https://pypi.org/project/colorama/    [Check the official website for more utilities]   #
 # Feel free to tell me if you saw any flaw in the script                                  #      
-# Contact me on discord : Sensei.Qt#7309                                                  #
+# Contact me on discord : Sensei.exe#7309                                                 #
 ###########################################################################################
 
 
