@@ -1,13 +1,13 @@
 ###########################################################################################
 #                                                                                         #
-# THE FAMOUS GAME OF ROCK PAPER SCISSOR     (An interactive python program)               #
+# A SIMPLE GAME OF ROCK PAPER SCISSOR     (An interactive python program)                 #
 # I tried to make a python program of this game (somehow it is working lol)               #
-# I also added a little bit decoration in this                                            #
-# In order to run this script on you computer you will need to install colorama module    #
+# I also added a little bit decoration in this (colorama)                                 #
+# In order to run this script on your computer you will need to install colorama module   #
 # Open cmd and type [pip install colorama]                                                #
-# https://pypi.org/project/colorama/    [Check the official website for more utilities]   #
-# Feel free to tell me if you saw any flaw in the script                                  #      
-# Contact me on discord : Sensei.exe#7309                                                 #
+# https://github.com/tartley/colorama    [Check this repo ]                               #
+# Feel free to tell me if you see any flaw in the script                                  #      
+# Contact me on discord : Grizz#7309                                                      #
 ###########################################################################################
 
 
