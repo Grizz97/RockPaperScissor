@@ -14,7 +14,8 @@
 
 
 import random                                                 
-import time                           
+import time         
+import sys
 from colorama import Fore, Back, Style
 ############  ^ DEPENDENCIES ^  ############
 
